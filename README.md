@@ -1,7 +1,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Freshly+Graduated+Software+Engineer;Junior+Mobile+App+Developper)](https://git.io/typing-svg)
-<br><br>
 [![](https://visitcount.itsvg.in/api?id=youssefbazdeh&label=Profile%20Views&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Freshly+Graduated+Software+Engineer;Junior+Mobile+App+Developper)](https://git.io/typing-svg)
 
 # 💫 About Me:
 <br>Hi! I'm Youssef Bazdeh, a passionate Junior Software Engineer with a focus on mobile application development and a solid foundation in backend technologies. My expertise includes building scalable, high-performance mobile apps using Flutter for cross-platform development, as well as Kotlin and Swift for native Android and iOS apps.<br><br>On the backend side, I am proficient in Node.js, Spring Boot, and Symfony, where I have experience developing robust, secure APIs and integrating complex systems. I thrive on solving technical challenges and enjoy collaborating with design and product teams to create user-friendly and engaging mobile and web solutions.<br><br>With a strong background in REST API integration, Firebase services, and UI/UX design principles, I’m committed to delivering clean, efficient, and maintainable code.<br><br>When I’m not coding, you can find me learning about new technologies, contributing to open-source projects, or working on personal projects. Feel free to explore my repositories and connect with me!
