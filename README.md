@@ -1,5 +1,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Freshly+Graduated+Software+Engineer;Junior+Mobile+App+Developper)](https://git.io/typing-svg)
+<br><br>
 [![](https://visitcount.itsvg.in/api?id=youssefbazdeh&label=Profile%20Views&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
